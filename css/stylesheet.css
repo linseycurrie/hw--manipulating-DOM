@@ -1,0 +1,9 @@
+#new-species-form {
+    display: flex;
+    flex-direction: row;
+}
+
+.form-item {
+    display: flex;
+    flex-direction: row;
+}
